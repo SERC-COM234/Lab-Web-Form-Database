@@ -29,7 +29,8 @@
 						"password": "P@ssw0rd",
 						"emptyPasswordInput": false,
 						"savePassword": true,
-						"profileName": "mssql-container"
+						"profileName": "mssql-container",
+						"trustServerCertificate": true
 					}
 				]
 			},
